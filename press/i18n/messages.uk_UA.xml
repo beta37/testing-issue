@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="global" source-language="en" datatype="plaintext" date="2017-02-02" target-language="uk">
+    <body>
+      <trans-unit id="1">
+        <source>Hello world</source>
+        <target xml:lang="uk" state="translated">Привіт світ</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>test something</source>
+        <target xml:lang="uk" state="translated">перевірити щось</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>link</source>
+        <target xml:lang="uk" state="translated">посилання</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>attachments</source>
+        <target xml:lang="uk" state="translated">вкладення</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>contact us</source>
+        <target xml:lang="uk" state="translated">зв'яжіться з нами</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>hia hou</source>
+        <target xml:lang="uk" state="translated">ОВЗ Хоу</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>show all</source>
+        <target xml:lang="uk" state="translated">Показати всі</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>hide all</source>
+        <target xml:lang="uk" state="translated">приховати все</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>date</source>
+        <target xml:lang="uk" state="translated">Дата</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>title</source>
+        <target xml:lang="uk" state="translated">назва</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Nothing found</source>
+        <note>We are not found</note>
+        <target xml:lang="uk" state="translated">Нічого не знайдено</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>All</source>
+        <note>View all results</note>
+        <target xml:lang="uk" state="translated">Всі</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
