@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="global" source-language="en" datatype="plaintext" date="2017-02-02" target-language="he">
+    <body>
+      <trans-unit id="1">
+        <source>Hello world</source>
+        <target xml:lang="he" state="translated">שלום עולם</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>test something</source>
+        <target xml:lang="he" state="translated">בדיקת משהו</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>link</source>
+        <target xml:lang="he" state="translated">קישור</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>attachments</source>
+        <target xml:lang="he" state="translated">קבצים מצורפים</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>contact us</source>
+        <target xml:lang="he" state="translated">צור איתנו קשר</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>hia hou</source>
+        <target xml:lang="he" state="translated">hia האו</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>show all</source>
+        <target xml:lang="he" state="translated">הצג את כל</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>hide all</source>
+        <target xml:lang="he" state="translated">להסתיר את כל</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>date</source>
+        <target xml:lang="he" state="translated">תאריך</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>title</source>
+        <target xml:lang="he" state="translated">כותרת</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Nothing found</source>
+        <note>We are not found</note>
+        <target xml:lang="he" state="translated">שום דבר לא נמצא</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>All</source>
+        <note>View all results</note>
+        <target xml:lang="he" state="translated">כל</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
