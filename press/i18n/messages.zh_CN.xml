@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="global" source-language="en" datatype="plaintext" date="2017-02-02" target-language="zh-CN">
+    <body>
+      <trans-unit id="1" approved="yes">
+        <source>Hello world</source>
+        <target xml:lang="zh-CN">世界你好</target>
+      </trans-unit>
+      <trans-unit id="2" approved="yes">
+        <source>test something</source>
+        <target xml:lang="zh-CN">测试的东西</target>
+      </trans-unit>
+      <trans-unit id="3" approved="yes">
+        <source>link</source>
+        <target xml:lang="zh-CN">链接</target>
+      </trans-unit>
+      <trans-unit id="4" approved="yes">
+        <source>attachments</source>
+        <target xml:lang="zh-CN">附件</target>
+      </trans-unit>
+      <trans-unit id="5" approved="yes">
+        <source>contact us</source>
+        <target xml:lang="zh-CN">联系我们</target>
+      </trans-unit>
+      <trans-unit id="6" approved="yes">
+        <source>hia hou</source>
+        <target xml:lang="zh-CN">hia侯</target>
+      </trans-unit>
+      <trans-unit id="7" approved="yes">
+        <source>show all</source>
+        <target xml:lang="zh-CN">显示所有</target>
+      </trans-unit>
+      <trans-unit id="8" approved="yes">
+        <source>hide all</source>
+        <target xml:lang="zh-CN">所有的隐藏</target>
+      </trans-unit>
+      <trans-unit id="9" approved="yes">
+        <source>date</source>
+        <target xml:lang="zh-CN">日期</target>
+      </trans-unit>
+      <trans-unit id="10" approved="yes">
+        <source>title</source>
+        <target xml:lang="zh-CN">标题</target>
+      </trans-unit>
+      <trans-unit id="11" approved="yes">
+        <source>Nothing found</source>
+        <note>We are not found</note>
+        <target xml:lang="zh-CN">没有什么发现</target>
+      </trans-unit>
+      <trans-unit id="12" approved="yes">
+        <source>All</source>
+        <note>View all results</note>
+        <target xml:lang="zh-CN">所有</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
