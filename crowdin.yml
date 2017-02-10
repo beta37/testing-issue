@@ -1,0 +1,6 @@
+files:
+  - source: /press/i18n/messages.en.xliff
+    translation: /press/i18n/messages.%locale_with_underscore%.xml
+  - source: /backend/i18n/messages.en.xliff
+    translation: /backend/i18n/messages.%locale_with_underscore%.xml
+base_path: /
