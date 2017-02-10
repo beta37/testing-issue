@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="global" source-language="en" datatype="plaintext" date="2017-02-12" target-language="it">
+    <body>
+      <trans-unit id="1" approved="yes">
+        <source>Attachments</source>
+        <target xml:lang="it">Allegati</target>
+      </trans-unit>
+      <trans-unit id="2" approved="yes">
+        <source>About</source>
+        <target xml:lang="it">Circa</target>
+      </trans-unit>
+      <trans-unit id="3" approved="yes">
+        <source>About us</source>
+        <target xml:lang="it">Su di noi</target>
+      </trans-unit>
+      <trans-unit id="4" approved="yes">
+        <source>Hello world</source>
+        <target xml:lang="it">Ciao mondo</target>
+      </trans-unit>
+      <trans-unit id="5" approved="yes">
+        <source>Subscribe</source>
+        <target xml:lang="it">Iscriviti</target>
+      </trans-unit>
+      <trans-unit id="6" approved="yes">
+        <source>Unsubscribe</source>
+        <target xml:lang="it">Unsubscribe</target>
+      </trans-unit>
+      <trans-unit id="7" approved="yes">
+        <source>test</source>
+        <target xml:lang="it">prova</target>
+      </trans-unit>
+      <trans-unit id="8" approved="yes">
+        <source>Read more</source>
+        <target xml:lang="it">Leggi di più</target>
+      </trans-unit>
+      <trans-unit id="9" approved="yes">
+        <source>images</source>
+        <target xml:lang="it">immagini</target>
+      </trans-unit>
+      <trans-unit id="10" approved="yes">
+        <source>videos</source>
+        <target xml:lang="it">video</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
