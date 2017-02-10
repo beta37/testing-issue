@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="global" source-language="en" datatype="plaintext" date="2017-02-02" target-language="ca">
+    <body>
+      <trans-unit id="1" approved="yes">
+        <source>Hello world</source>
+        <target xml:lang="ca">Hola món</target>
+      </trans-unit>
+      <trans-unit id="2" approved="yes">
+        <source>test something</source>
+        <target xml:lang="ca">prova alguna cosa</target>
+      </trans-unit>
+      <trans-unit id="3" approved="yes">
+        <source>link</source>
+        <target xml:lang="ca">enllaç</target>
+      </trans-unit>
+      <trans-unit id="4" approved="yes">
+        <source>attachments</source>
+        <target xml:lang="ca">arxius adjunts</target>
+      </trans-unit>
+      <trans-unit id="5" approved="yes">
+        <source>contact us</source>
+        <target xml:lang="ca">contacte amb nosaltres</target>
+      </trans-unit>
+      <trans-unit id="6" approved="yes">
+        <source>hia hou</source>
+        <target xml:lang="ca">hia hou</target>
+      </trans-unit>
+      <trans-unit id="7" approved="yes">
+        <source>show all</source>
+        <target xml:lang="ca">mostra tots els</target>
+      </trans-unit>
+      <trans-unit id="8" approved="yes">
+        <source>hide all</source>
+        <target xml:lang="ca">amaga tots els</target>
+      </trans-unit>
+      <trans-unit id="9" approved="yes">
+        <source>date</source>
+        <target xml:lang="ca">data</target>
+      </trans-unit>
+      <trans-unit id="10" approved="yes">
+        <source>title</source>
+        <target xml:lang="ca">títol</target>
+      </trans-unit>
+      <trans-unit id="11" approved="yes">
+        <source>Nothing found</source>
+        <note>We are not found</note>
+        <target xml:lang="ca">Però no van trobar res</target>
+      </trans-unit>
+      <trans-unit id="12" approved="yes">
+        <source>All</source>
+        <note>View all results</note>
+        <target xml:lang="ca">Tot</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
