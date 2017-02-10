@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="global" source-language="en" datatype="plaintext" date="2017-02-02" target-language="en">
+    <body>
+      <trans-unit id="1" approved="yes">
+        <source>Hello world</source>
+        <target xml:lang="en">Hello world</target>
+      </trans-unit>
+      <trans-unit id="2" approved="yes">
+        <source>test something</source>
+        <target xml:lang="en">test something</target>
+      </trans-unit>
+      <trans-unit id="3" approved="yes">
+        <source>link</source>
+        <target xml:lang="en">link</target>
+      </trans-unit>
+      <trans-unit id="4" approved="yes">
+        <source>attachments</source>
+        <target xml:lang="en">attachments</target>
+      </trans-unit>
+      <trans-unit id="5" approved="yes">
+        <source>contact us</source>
+        <target xml:lang="en">contact us</target>
+      </trans-unit>
+      <trans-unit id="6" approved="yes">
+        <source>hia hou</source>
+        <target xml:lang="en">hia hou</target>
+      </trans-unit>
+      <trans-unit id="7" approved="yes">
+        <source>show all</source>
+        <target xml:lang="en">show all</target>
+      </trans-unit>
+      <trans-unit id="8" approved="yes">
+        <source>hide all</source>
+        <target xml:lang="en">hide all</target>
+      </trans-unit>
+      <trans-unit id="9" approved="yes">
+        <source>date</source>
+        <target xml:lang="en">date</target>
+      </trans-unit>
+      <trans-unit id="10" approved="yes">
+        <source>title</source>
+        <target xml:lang="en">title</target>
+      </trans-unit>
+      <trans-unit id="11" approved="yes">
+        <source>Nothing found</source>
+        <note>We are not found</note>
+        <target xml:lang="en">Nothing found</target>
+      </trans-unit>
+      <trans-unit id="12" approved="yes">
+        <source>All</source>
+        <note>View all results</note>
+        <target xml:lang="en">All</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
