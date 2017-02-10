@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="global" source-language="en" datatype="plaintext" date="2017-02-02" target-language="ja">
+    <body>
+      <trans-unit id="1">
+        <source>Hello world</source>
+        <target xml:lang="ja" state="translated">世界のHello</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>test something</source>
+        <target xml:lang="ja" state="translated">試験も</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>link</source>
+        <target xml:lang="ja" state="translated">リンク</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>attachments</source>
+        <target xml:lang="ja" state="translated">添付</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>contact us</source>
+        <target xml:lang="ja" state="translated">お問合せ</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>hia hou</source>
+        <target xml:lang="ja" state="translated">hia侯</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>show all</source>
+        <target xml:lang="ja" state="translated">全て表示</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>hide all</source>
+        <target xml:lang="ja" state="translated">非表示になり</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>date</source>
+        <target xml:lang="ja" state="translated">日</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>title</source>
+        <target xml:lang="ja" state="translated">タイトル</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Nothing found</source>
+        <note>We are not found</note>
+        <target xml:lang="ja" state="translated">何も見つかり</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>All</source>
+        <note>View all results</note>
+        <target xml:lang="ja" state="translated">すべての</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
