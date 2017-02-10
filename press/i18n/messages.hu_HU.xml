@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="global" source-language="en" datatype="plaintext" date="2017-02-02" target-language="hu">
+    <body>
+      <trans-unit id="1">
+        <source>Hello world</source>
+        <target xml:lang="hu" state="translated">Helló világ</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>test something</source>
+        <target xml:lang="hu" state="translated">valami teszt</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>link</source>
+        <target xml:lang="hu" state="translated">kapcsolat</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>attachments</source>
+        <target xml:lang="hu" state="translated">mellékletek</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>contact us</source>
+        <target xml:lang="hu" state="translated">lépjen velünk kapcsolatba</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>hia hou</source>
+        <target xml:lang="hu" state="translated">hia hou</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>show all</source>
+        <target xml:lang="hu" state="translated">összes</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>hide all</source>
+        <target xml:lang="hu" state="translated">minden elrejtése</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>date</source>
+        <target xml:lang="hu" state="translated">időpont</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>title</source>
+        <target xml:lang="hu" state="translated">cím</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Nothing found</source>
+        <note>We are not found</note>
+        <target xml:lang="hu" state="translated">Semmi megtaláltam</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>All</source>
+        <note>View all results</note>
+        <target xml:lang="hu" state="translated">Összes</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
