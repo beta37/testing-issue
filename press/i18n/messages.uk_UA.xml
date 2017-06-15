@@ -3,55 +3,55 @@
 <xliff version="1.0">
   <file original="global" source-language="en" datatype="plaintext" date="2017-02-02" target-language="uk">
     <body>
-      <trans-unit id="1" approved="yes">
+      <trans-unit id="1">
         <source>Hello world</source>
-        <target xml:lang="uk">Привіт світ</target>
+        <target xml:lang="uk" state="needs-translation">Hello world</target>
       </trans-unit>
-      <trans-unit id="2" approved="yes">
+      <trans-unit id="2">
         <source>test something</source>
-        <target xml:lang="uk">перевірити щось</target>
+        <target xml:lang="uk" state="needs-translation">test something</target>
       </trans-unit>
-      <trans-unit id="3" approved="yes">
+      <trans-unit id="3">
         <source>link</source>
-        <target xml:lang="uk">посилання</target>
+        <target xml:lang="uk" state="needs-translation">link</target>
       </trans-unit>
-      <trans-unit id="4" approved="yes">
+      <trans-unit id="4">
         <source>attachments</source>
-        <target xml:lang="uk">вкладення</target>
+        <target xml:lang="uk" state="needs-translation">attachments</target>
       </trans-unit>
-      <trans-unit id="5" approved="yes">
+      <trans-unit id="5">
         <source>contact us</source>
-        <target xml:lang="uk">зв'яжіться з нами</target>
+        <target xml:lang="uk" state="needs-translation">contact us</target>
       </trans-unit>
-      <trans-unit id="6" approved="yes">
+      <trans-unit id="6">
         <source>hia hou</source>
-        <target xml:lang="uk">ОВЗ Хоу</target>
+        <target xml:lang="uk" state="needs-translation">hia hou</target>
       </trans-unit>
-      <trans-unit id="7" approved="yes">
+      <trans-unit id="7">
         <source>show all</source>
-        <target xml:lang="uk">Показати всі</target>
+        <target xml:lang="uk" state="needs-translation">show all</target>
       </trans-unit>
-      <trans-unit id="8" approved="yes">
+      <trans-unit id="8">
         <source>hide all</source>
-        <target xml:lang="uk">приховати все</target>
+        <target xml:lang="uk" state="needs-translation">hide all</target>
       </trans-unit>
-      <trans-unit id="9" approved="yes">
+      <trans-unit id="9">
         <source>date</source>
-        <target xml:lang="uk">Дата</target>
+        <target xml:lang="uk" state="needs-translation">date</target>
       </trans-unit>
-      <trans-unit id="10" approved="yes">
+      <trans-unit id="10">
         <source>title</source>
-        <target xml:lang="uk">назва</target>
+        <target xml:lang="uk" state="needs-translation">title</target>
       </trans-unit>
-      <trans-unit id="11" approved="yes">
+      <trans-unit id="11">
         <source>Nothing found</source>
         <note>We are not found</note>
-        <target xml:lang="uk">Нічого не знайдено</target>
+        <target xml:lang="uk" state="needs-translation">Nothing found</target>
       </trans-unit>
-      <trans-unit id="12" approved="yes">
+      <trans-unit id="12">
         <source>All</source>
         <note>View all results</note>
-        <target xml:lang="uk">Всі</target>
+        <target xml:lang="uk" state="needs-translation">All</target>
       </trans-unit>
     </body>
   </file>
