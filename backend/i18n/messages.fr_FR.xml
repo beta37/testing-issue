@@ -3,45 +3,45 @@
 <xliff version="1.0">
   <file original="global" source-language="en" datatype="plaintext" date="2017-02-12" target-language="fr">
     <body>
-      <trans-unit id="1" approved="yes">
+      <trans-unit id="1">
         <source>Attachments</source>
-        <target xml:lang="fr">Les pièces jointes</target>
+        <target xml:lang="fr" state="needs-translation">Attachments</target>
       </trans-unit>
-      <trans-unit id="2" approved="yes">
+      <trans-unit id="2">
         <source>About</source>
-        <target xml:lang="fr">Sur</target>
+        <target xml:lang="fr" state="needs-translation">About</target>
       </trans-unit>
-      <trans-unit id="3" approved="yes">
+      <trans-unit id="3">
         <source>About us</source>
-        <target xml:lang="fr">À propos de nous</target>
+        <target xml:lang="fr" state="needs-translation">About us</target>
       </trans-unit>
-      <trans-unit id="4" approved="yes">
+      <trans-unit id="4">
         <source>Hello world</source>
-        <target xml:lang="fr">Bonjour tout le monde</target>
+        <target xml:lang="fr" state="needs-translation">Hello world</target>
       </trans-unit>
-      <trans-unit id="5" approved="yes">
+      <trans-unit id="5">
         <source>Subscribe</source>
-        <target xml:lang="fr">Abonnez-vous</target>
+        <target xml:lang="fr" state="needs-translation">Subscribe</target>
       </trans-unit>
-      <trans-unit id="6" approved="yes">
+      <trans-unit id="6">
         <source>Unsubscribe</source>
-        <target xml:lang="fr">Se désabonner</target>
+        <target xml:lang="fr" state="needs-translation">Unsubscribe</target>
       </trans-unit>
-      <trans-unit id="7" approved="yes">
+      <trans-unit id="7">
         <source>test</source>
-        <target xml:lang="fr">test</target>
+        <target xml:lang="fr" state="needs-translation">test</target>
       </trans-unit>
-      <trans-unit id="8" approved="yes">
+      <trans-unit id="8">
         <source>Read more</source>
-        <target xml:lang="fr">Lire plus</target>
+        <target xml:lang="fr" state="needs-translation">Read more</target>
       </trans-unit>
-      <trans-unit id="9" approved="yes">
+      <trans-unit id="9">
         <source>images</source>
-        <target xml:lang="fr">images</target>
+        <target xml:lang="fr" state="needs-translation">images</target>
       </trans-unit>
-      <trans-unit id="10" approved="yes">
+      <trans-unit id="10">
         <source>videos</source>
-        <target xml:lang="fr">vidéos</target>
+        <target xml:lang="fr" state="needs-translation">videos</target>
       </trans-unit>
     </body>
   </file>
