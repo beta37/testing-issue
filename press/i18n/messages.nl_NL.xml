@@ -3,55 +3,55 @@
 <xliff version="1.0">
   <file original="global" source-language="en" datatype="plaintext" date="2017-02-02" target-language="nl">
     <body>
-      <trans-unit id="1" approved="yes">
+      <trans-unit id="1">
         <source>Hello world</source>
-        <target xml:lang="nl">Hallo wereld</target>
+        <target xml:lang="nl" state="needs-translation">Hello world</target>
       </trans-unit>
-      <trans-unit id="2" approved="yes">
+      <trans-unit id="2">
         <source>test something</source>
-        <target xml:lang="nl">test iets</target>
+        <target xml:lang="nl" state="needs-translation">test something</target>
       </trans-unit>
-      <trans-unit id="3" approved="yes">
+      <trans-unit id="3">
         <source>link</source>
-        <target xml:lang="nl">link</target>
+        <target xml:lang="nl" state="needs-translation">link</target>
       </trans-unit>
-      <trans-unit id="4" approved="yes">
+      <trans-unit id="4">
         <source>attachments</source>
-        <target xml:lang="nl">bijlagen</target>
+        <target xml:lang="nl" state="needs-translation">attachments</target>
       </trans-unit>
-      <trans-unit id="5" approved="yes">
+      <trans-unit id="5">
         <source>contact us</source>
-        <target xml:lang="nl">contact met ons</target>
+        <target xml:lang="nl" state="needs-translation">contact us</target>
       </trans-unit>
-      <trans-unit id="6" approved="yes">
+      <trans-unit id="6">
         <source>hia hou</source>
-        <target xml:lang="nl">ges-hou</target>
+        <target xml:lang="nl" state="needs-translation">hia hou</target>
       </trans-unit>
-      <trans-unit id="7" approved="yes">
+      <trans-unit id="7">
         <source>show all</source>
-        <target xml:lang="nl">toon alle</target>
+        <target xml:lang="nl" state="needs-translation">show all</target>
       </trans-unit>
-      <trans-unit id="8" approved="yes">
+      <trans-unit id="8">
         <source>hide all</source>
-        <target xml:lang="nl">alles verbergen</target>
+        <target xml:lang="nl" state="needs-translation">hide all</target>
       </trans-unit>
-      <trans-unit id="9" approved="yes">
+      <trans-unit id="9">
         <source>date</source>
-        <target xml:lang="nl">datum</target>
+        <target xml:lang="nl" state="needs-translation">date</target>
       </trans-unit>
-      <trans-unit id="10" approved="yes">
+      <trans-unit id="10">
         <source>title</source>
-        <target xml:lang="nl">titel</target>
+        <target xml:lang="nl" state="needs-translation">title</target>
       </trans-unit>
-      <trans-unit id="11" approved="yes">
+      <trans-unit id="11">
         <source>Nothing found</source>
         <note>We are not found</note>
-        <target xml:lang="nl">Niets gevonden</target>
+        <target xml:lang="nl" state="needs-translation">Nothing found</target>
       </trans-unit>
-      <trans-unit id="12" approved="yes">
+      <trans-unit id="12">
         <source>All</source>
         <note>View all results</note>
-        <target xml:lang="nl">Alle</target>
+        <target xml:lang="nl" state="needs-translation">All</target>
       </trans-unit>
     </body>
   </file>
