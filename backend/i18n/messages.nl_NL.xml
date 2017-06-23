@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="global" source-language="en" datatype="plaintext" date="2017-02-12" target-language="nl">
+    <body>
+      <trans-unit id="1">
+        <source>Attachments</source>
+        <target xml:lang="nl" state="needs-translation">Attachments</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>About</source>
+        <target xml:lang="nl" state="needs-translation">About</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>About us</source>
+        <target xml:lang="nl" state="needs-translation">About us</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>Hello world</source>
+        <target xml:lang="nl" state="needs-translation">Hello world</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Subscribe</source>
+        <target xml:lang="nl" state="needs-translation">Subscribe</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Unsubscribe</source>
+        <target xml:lang="nl" state="needs-translation">Unsubscribe</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>test</source>
+        <target xml:lang="nl" state="needs-translation">test</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Read more</source>
+        <target xml:lang="nl" state="needs-translation">Read more</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>images</source>
+        <target xml:lang="nl" state="needs-translation">images</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>videos</source>
+        <target xml:lang="nl" state="needs-translation">videos</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
